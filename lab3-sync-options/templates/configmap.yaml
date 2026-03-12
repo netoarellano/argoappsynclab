@@ -10,4 +10,3 @@ data:
   welcome.txt: |
     Welcome to the demo application!
     This file is mounted from ConfigMap.
-EOF
